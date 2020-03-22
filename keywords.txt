@@ -1,0 +1,28 @@
+#########################################
+# Syntax Coloring Map For Arduino-LTC294x
+#########################################
+
+#########################################
+# Datatypes (KEYWORD1)
+#########################################
+
+LTC294x           KEYWORD1
+LTC294xCallback   KEYWORD1
+
+#########################################
+# Methods and Functions (KEYWORD2)
+#########################################
+
+init               KEYWORD2
+reset              KEYWORD2
+poll               KEYWORD2
+preserveOnDestroy  KEYWORD2
+serializeSettings  KEYWORD2
+printDebug         KEYWORD2
+printRegs          KEYWORD2
+
+#########################################
+# Constants (LITERAL1)
+#########################################
+
+LTC294X_SERIALIZE_VERSION  LITERAL1
